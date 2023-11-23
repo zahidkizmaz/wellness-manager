@@ -22,11 +22,11 @@ poetry run pytest
 
 ### Usage
 
-Explain how to use the project after installation. Provide examples of common tasks or functions.
+TODO
 
 ### Contributing
 
-Outline how others can contribute to the project, such as by opening issues or pull requests.
+TODO
 
 ### License
 
