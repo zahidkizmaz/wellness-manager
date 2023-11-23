@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Wellness management for you and your apps"
 authors = ["Zahid Kizmaz <tech@zahid.rocks>"]
 readme = "README.md"
+packages = [{include = "wellness_manager", from = "src"}]
 
 [tool.poetry.dependencies]
 python = "3.12.0"
