@@ -4,7 +4,7 @@ from typing import TYPE_CHECKING
 
 import pytest
 
-from src.domains.healthcheck import HealthCheck
+from src.wellness_manager.domains.healthcheck import HealthCheck
 
 if TYPE_CHECKING:
     from faker import Faker

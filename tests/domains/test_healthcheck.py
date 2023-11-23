@@ -1,4 +1,4 @@
-from src.domains.healthcheck import HealthCheck
+from src.wellness_manager.domains.healthcheck import HealthCheck
 
 
 class TestHealtCheck:

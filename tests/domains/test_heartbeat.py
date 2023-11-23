@@ -1,4 +1,4 @@
-from src.domains.heartbeat import HeartBeat
+from src.wellness_manager.domains.heartbeat import HeartBeat
 
 
 class TestHeartBeat:
